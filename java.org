@@ -1,1 +1,8 @@
+# JAVA
+
+* Useful Commands
+- jps: ps for java processes
+  - -l long listing
+  - -v jvm parameter
+  - -m parameters
 
