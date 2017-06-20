@@ -5,4 +5,8 @@
   - -l long listing
   - -v jvm parameter
   - -m parameters
-
+- jmap: can print heap dump of a jvm
+  - jmap -dump:format=b,file=snapshot.jmap pid
+- jmap: can print heap histogram
+  - jmap -histo pid
+  
