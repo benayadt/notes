@@ -1,2 +1,13 @@
+* TK
+** Fluent Interface
+- Method of designing a readable/fluent interface, based on method chaining
+
 * Rules
 - *switch* -> think polymorphism
+
+* Patterns
+** Command Query Separation
+- Seperate an object's methods into:
+  - *Queries*: that query data without changing the state of the object (no side effect)
+  - *Commands*: that change the state of the object without returning anything
+- Ref: https://martinfowler.com/bliki/CommandQuerySeparation.html
