@@ -1,5 +1,11 @@
 # JAVA
 
+* TK
+- Heap Pollution
+  - Situation that occurs if a parametrized type refers to an object that is not of that parametrized type
+  - Causes *unchecked warning* at compile tim
+  - Can cause ClassCastException at runtime.
+
 * Useful Commands
 - jps: ps for java processes
   - -l long listing
