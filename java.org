@@ -5,6 +5,11 @@
   - Situation that occurs if a parametrized type refers to an object that is not of that parametrized type
   - Causes *unchecked warning* at compile tim
   - Can cause ClassCastException at runtime.
+- SAM Interfaces
+  - Single Abstract Method Interfaces: Interface with a single abstract method
+  - Examples: Runnable, Callable, ActionListener...
+- Functional Interface
+  - Interface with exactly one abstract mehod
 
 * Useful Commands
 - jps: ps for java processes
