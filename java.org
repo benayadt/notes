@@ -10,6 +10,12 @@
   - Examples: Runnable, Callable, ActionListener...
 - Functional Interface
   - Interface with exactly one abstract mehod
+  
+* Concurrency
+- JAVA-RS: Jsr 311, The JavaTM API for RESTful Web Services
+  - *Jersey*: Reference implementation of JAX-RS
+- CompletableFuture
+- CompletionStage
 
 * Useful Commands
 - jps: ps for java processes
