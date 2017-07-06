@@ -1,6 +1,12 @@
 * TK
 ** Fluent Interface
 - Method of designing a readable/fluent interface, based on method chaining
+** Failover
+- Capacity to transfer control from a primary system which suffers an issue to a backup system
+- Ref: https://www.techopedia.com/definition/1202/failover
+** Serverless compution
+- Ref: https://www.techopedia.com/definition/32477/serverless-computing
+- Ref: https://www.techopedia.com/serverless-computing-101/2/32479
 
 * Rules
 - *switch* -> think polymorphism
