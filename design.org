@@ -17,3 +17,5 @@
   - *Queries*: that query data without changing the state of the object (no side effect)
   - *Commands*: that change the state of the object without returning anything
 - Ref: https://martinfowler.com/bliki/CommandQuerySeparation.html
+** Fire And Forget
+- Ref: http://www.enterpriseintegrationpatterns.com/patterns/conversation/FireAndForget.html
