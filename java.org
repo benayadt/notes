@@ -27,3 +27,8 @@
 - jmap: can print heap histogram
   - jmap -histo pid
   
+* Maven
+- Run a specific test class:
+  - mvn test -Dtest=MyTestClassName
+  - *Ref: http://maven.apache.org/surefire/maven-surefire-plugin/examples/single-test.html*
+  
