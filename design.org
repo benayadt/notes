@@ -41,3 +41,4 @@
 
 * Effective Java
 ** Item 16: Favor composition over inheritence
+- /Is A/ *vs* /Has A/
