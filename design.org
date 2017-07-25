@@ -7,6 +7,14 @@
 ** Serverless compution
 - Ref: https://www.techopedia.com/definition/32477/serverless-computing
 - Ref: https://www.techopedia.com/serverless-computing-101/2/32479
+** Referential Transparency
+- A property of programming constructs.
+- A function or method that can be replaced by Its returned value, *without changing the behavior
+  of the program* is referentially transparent
+- Ref: http://wiki.c2.com/?ReferentialTransparency
+** Referential Opacity
+** Reification
+** Coroutine
 
 * Rules
 - *switch* -> think polymorphism
