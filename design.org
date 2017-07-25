@@ -27,3 +27,17 @@
 - Ref: https://martinfowler.com/bliki/CommandQuerySeparation.html
 ** Fire And Forget
 - Ref: http://www.enterpriseintegrationpatterns.com/patterns/conversation/FireAndForget.html
+
+* Principles
+** Law of Demeter
+- /Only talk to your friends/
+- *Very useful for Refactoring*
+- Basic Rules:
+  - Your method can call other methods on Its class directly
+  - You method can call methods on objects It references in Its fields (but not the fields' fields)
+  - Your method can call methods on objects It created
+  - Your method can call methods on objects passed as parameters
+  - Your should not have call trains get().get()...
+
+* Effective Java
+** Item 16: Favor composition over inheritence
