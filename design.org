@@ -38,6 +38,11 @@
   - Your method can call methods on objects It created
   - Your method can call methods on objects passed as parameters
   - Your should not have call trains get().get()...
+** Liskov Substitution Principle
+- Derived class objects must be substitutable for the base class objects
+- Objects of the derived class must behave in a manner *consistent with the promises made in the base 
+  class' contract*
+- Ref: http://wiki.c2.com/?LiskovSubstitutionPrinciple
 
 * Effective Java
 ** Item 16: Favor composition over inheritence
