@@ -16,6 +16,10 @@
 ** Reification
 ** Coroutine
 
+* Refactoring
+** Workflows of Refactoring: https://martinfowler.com/articles/workflowsOfRefactoring/
+** Branch by Abstraction: https://martinfowler.com/bliki/BranchByAbstraction.html
+
 * Rules
 - *switch* -> think polymorphism
 
