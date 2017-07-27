@@ -29,6 +29,12 @@
 - Ref: http://www.enterpriseintegrationpatterns.com/patterns/conversation/FireAndForget.html
 
 * Principles
+** SOLID
+- SRP: Single Responsability Principle
+- OCP: Open Closed Principle
+- LSP: Liskov Substitution Principle
+- ISP: Interface Segregation Principle
+- DIP: Dependency *Inversion* Principle
 ** Law of Demeter
 - /Only talk to your friends/
 - *Very useful for Refactoring*
