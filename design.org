@@ -17,12 +17,13 @@
 ** Coroutine
 
 * Refactoring
+** Beck Design Rules
+- Ref: https://martinfowler.com/bliki/BeckDesignRules.html
 ** Workflows of Refactoring
 - Ref: https://martinfowler.com/articles/workflowsOfRefactoring/
 ** Branch by Abstraction 
 - Ref: https://martinfowler.com/bliki/BranchByAbstraction.html
-
-* Rules
+** Rules
 - *switch* -> think polymorphism
 
 * Patterns
@@ -54,7 +55,9 @@
   - Your method can call methods on objects It created
   - Your method can call methods on objects passed as parameters
   - Your should not have call trains get().get()...
-  
+*** DRY: Don't Repeat Yourself
+*** SPOT: Single Point Of Truth
+
 * Effective Java
 ** Item 16: Favor composition over inheritence
 - /Is A/ *vs* /Has A/
