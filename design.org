@@ -34,6 +34,10 @@
 - Ref: https://martinfowler.com/bliki/CommandQuerySeparation.html
 ** Fire And Forget
 - Ref: http://www.enterpriseintegrationpatterns.com/patterns/conversation/FireAndForget.html
+** Active Object
+- Implementation of the Active Object Pattern is Typed Actors from Akka
+  http://doc.akka.io/docs/akka/current/java/typed-actors.html
+- Ref: http://wiki.c2.com/?ActiveObject
 
 * Principles
 ** SOLID
