@@ -38,6 +38,10 @@
 - Implementation of the Active Object Pattern is Typed Actors from Akka
   http://doc.akka.io/docs/akka/current/java/typed-actors.html
 - Ref: http://wiki.c2.com/?ActiveObject
+** Specification
+- Pattern described by Eric Evans (in DDD book) and Martin Fowler
+- Ref: https://www.martinfowler.com/apsupp/spec.pdf
+- Ref: http://blog.xebia.fr/2009/12/29/le-pattern-specification-pour-la-gestion-de-vos-regles-metier/
 
 * Principles
 ** SOLID
