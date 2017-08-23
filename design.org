@@ -42,6 +42,8 @@
 - Pattern described by Eric Evans (in DDD book) and Martin Fowler
 - Ref: https://www.martinfowler.com/apsupp/spec.pdf
 - Ref: http://blog.xebia.fr/2009/12/29/le-pattern-specification-pour-la-gestion-de-vos-regles-metier/
+** Flyweight
+- Use sharing to support large number of objects (characters in a text file)
 
 * Principles
 ** SOLID
