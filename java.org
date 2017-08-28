@@ -16,6 +16,9 @@
   - *Jersey*: Reference implementation of JAX-RS
 - CompletableFuture
 - CompletionStage
+- ThreadLocal:
+  - https://plumbr.eu/blog/locked-threads/how-to-shoot-yourself-in-foot-with-threadlocals
+  - https://plumbr.eu/blog/java/when-and-how-to-use-a-threadlocal
 
 * References
 - Refs: https://community.oracle.com/blogs/enicholas/2006/05/04/understanding-weak-references
@@ -33,6 +36,19 @@
   - jmap -dump:format=b,file=snapshot.jmap pid
 - jmap: can print heap histogram
   - jmap -histo pid
+  
+* HASHMAP
+- Load factor: When the size of the hashmap reaches 75% of current (internal array) size, 
+  It doubles the size by recomputing hashcodes of existing data strucutre elements.
+  => *Best practice to give the size of the hashmap during creation*
+- Return of 'V put(K, V)': Previous V associated with K, or null if K not existing before,
+  or null if K was mapped to null.
+- Refs: https://tekmarathon.com/2012/12/04/hashmap-internal-implementation-analysis-in-java/
+  
+* Java Keywords
+- transient field: not to be serialized during serialization
+  Ex: HashMap has its internal array as transient. HashMap implements the writeObject and
+  readObject methods, which allows it to reconstruct the array.
   
 * Maven
 - Run a specific test class:
