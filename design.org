@@ -74,4 +74,5 @@
 - https://www.thoughtworks.com/insights/blog/composition-vs-inheritance-how-choose
 
 * UML
+** Sequence diagrams
 - Ref: https://www.ibm.com/developerworks/rational/library/3101.html
