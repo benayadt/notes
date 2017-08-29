@@ -72,3 +72,6 @@
 ** Item 16: Favor composition over inheritence
 - /Is A/ *vs* /Has A/
 - https://www.thoughtworks.com/insights/blog/composition-vs-inheritance-how-choose
+
+* UML
+- Ref: https://www.ibm.com/developerworks/rational/library/3101.html
