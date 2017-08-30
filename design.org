@@ -45,6 +45,10 @@
 ** Flyweight
 - Use sharing to support large number of objects (characters in a text file)
 
+* Architecture
+** Haxagonal Architecture
+- Ref: http://fideloper.com/hexagonal-architecture
+
 * Principles
 ** SOLID
 *** SRP: Single Responsability Principle
@@ -76,3 +80,4 @@
 * UML
 ** Sequence diagrams
 - Ref: https://www.ibm.com/developerworks/rational/library/3101.html
+- Ref: http://alistair.cockburn.us/Hexagonal+architecture
