@@ -1,3 +1,6 @@
+* TDD
+** TDD Golden Rule
+- *Never write new functionnality without a FAILING TEST*
 * Mocks aren't Stubs
 - Mocks are one special form of test objects
 - Behavior verification vs State verification
