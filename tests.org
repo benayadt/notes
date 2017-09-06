@@ -1,6 +1,13 @@
+* Levels of testing
+1. Acceptance: Test the whole system
+2. Integration: Test our code against code we can't change (ORM Mapper, other team code)
+3. Unit: Test our objects
+
 * TDD
 ** TDD Golden Rule
 - *Never write new functionnality without a FAILING TEST*
+
+
 * Mocks aren't Stubs
 - Mocks are one special form of test objects
 - Behavior verification vs State verification
