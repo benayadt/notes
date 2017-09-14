@@ -1,0 +1,7 @@
+* Websites
+- https://martinfowler.com/
+- http://blog.cleancoder.com/
+- http://www.javaspecialists.eu/
+- https://blog.jetbrains.com/
+
+* Books
