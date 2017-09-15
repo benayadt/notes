@@ -3,5 +3,7 @@
 - http://blog.cleancoder.com/
 - http://www.javaspecialists.eu/
 - https://blog.jetbrains.com/
+- https://medium.com/netflix-techblog/
+- https://blog.octo.com/
 
 * Books
