@@ -5,5 +5,6 @@
 - https://blog.jetbrains.com/
 - https://medium.com/netflix-techblog/
 - https://blog.octo.com/
+- https://www.mountaingoatsoftware.com/blog
 
 * Books
