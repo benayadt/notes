@@ -21,6 +21,9 @@
   - https://plumbr.eu/blog/java/when-and-how-to-use-a-threadlocal
 - Interrupted Exception
   - https://www.ibm.com/developerworks/library/j-jtp05236/index.html
+  - http://daniel.mitterdorfer.name/articles/2015/handling-interruptedexception/
+- Thread Status
+  - https://docs.oracle.com/javase/8/docs/api/java/lang/Thread.State.html
 
 * References
 - Refs: https://community.oracle.com/blogs/enicholas/2006/05/04/understanding-weak-references
