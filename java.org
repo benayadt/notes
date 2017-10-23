@@ -19,6 +19,8 @@
 - ThreadLocal:
   - https://plumbr.eu/blog/locked-threads/how-to-shoot-yourself-in-foot-with-threadlocals
   - https://plumbr.eu/blog/java/when-and-how-to-use-a-threadlocal
+- Interrupted Exception
+  - https://www.ibm.com/developerworks/library/j-jtp05236/index.html
 
 * References
 - Refs: https://community.oracle.com/blogs/enicholas/2006/05/04/understanding-weak-references
