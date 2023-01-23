@@ -7,4 +7,16 @@
 - https://blog.octo.com/
 - https://www.mountaingoatsoftware.com/blog
 
+- https://www.infoq.com/fr/articles/architecture-decision-records/
+- https://docs.aws.amazon.com/prescriptive-guidance/latest/architectural-decision-records/adr-process.html
+- https://adr.github.io/
+
+- https://www.youtube.com/watch?v=gl0zpKLbRe0&ab_channel=AWSEvents
+- https://www.youtube.com/watch?v=uwH83PjR98g
+
+- https://mxwiki.murex.com/confluence/display/DDEP/Testable+architectures%2C+by+Aslak+Hellesoy
+- https://learn.microsoft.com/en-us/dotnet/spark/what-is-spark
+
+- https://web.microsoftstream.com/video/4d15a200-7f40-4b81-a588-5c16c66e89ba
+
 * Books
